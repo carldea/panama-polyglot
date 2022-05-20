@@ -33,8 +33,8 @@ The following are the steps to clean, build library, generate `lib.h`, jextract 
 ```bash
 bash clean.sh
 cargo build
-jextract_lib_macos.sh
-run_Main_macos.sh
+bash jextract_lib_macos.sh
+bash run_Main_macos.sh
 ```
 
 # Output
