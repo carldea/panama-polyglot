@@ -60,7 +60,7 @@ import org.python.*;
 public class PythonMain {
     public static void main(String[] args) {
 
-        var script = "print(\"Hello World!!!\") ";
+        var script = ~~~~"print(\"Hello World!!!\") ";
         Py_Initialize();
         try (var scope = ResourceScope.newConfinedScope()) {
             var allocator = SegmentAllocator.nativeAllocator(scope);

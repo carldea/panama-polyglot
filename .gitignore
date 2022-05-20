@@ -27,3 +27,7 @@ generated/
 classes/
 .idea/
 *.iml
+.DS_Store
+target/
+Cargo.lock
+rust/lib.h
