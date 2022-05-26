@@ -3,7 +3,7 @@ This is an example of using Project Panama to talk to a Rust based native librar
 
 
 Check out the tutorial here: 
-https://foojay.io/today/java-panama-polyglot-part-4/
+https://foojay.io/today/java-panama-polyglot-rust-part-4/
 
 # Setup Java 19 with Project Panama
 Go to https://jdk.java.net/panama/ Build 19-panama+1-13 (2022/1/18)
